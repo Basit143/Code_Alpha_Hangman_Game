@@ -43,8 +43,8 @@ Feel free to **fork** this repository and submit a **pull request** with improve
 This project is licensed under the **MIT License**.
 
 ## 📢 Connect with Me
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub](https://github.com/yourusername)
+- **LinkedIn:** https://github.com/Basit143/Code_Alpha_Hangman_Game
+- **GitHub:** https://www.linkedin.com/in/abdul-basit-ai-and-python-developer-85480228b/
 
 Enjoy the game! 🎉
 
